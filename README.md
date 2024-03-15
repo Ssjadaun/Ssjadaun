@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ssjadaun
-- 👀 I’m interested in ...web development, UI/UX, 3D Graphic designing.....
+- 👀 I’m interested in ...web development, UI/UX, 3D Graphic designing, app development.....
 - 🌱 I’m currently learning webdev and 3D graphic designing
-- 📫 How to reach me . shrutijadaun346@gmail.com
+- 📫 How to reach me . shrutijadaun@outlook.com
 
 <!---
 Ssjadaun/Ssjadaun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
