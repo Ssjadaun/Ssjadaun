@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Shruti+Singh+Jadaun)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+Developer+From+India)](https://git.io/typing-svg)
-<img align="right" width="400" src="https://drive.google.com/file/d/11b3l4vgO1f76oPhZF4WTDvqWwVhMZDG9/view?usp=sharing">
+<img align="right" width="400" src="https://drive.google.com/file/d/11b3l4vgO1f76oPhZF4WTDvqWwVhMZDG9/view?usp=drive_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="ssjadaun" /> </p>
 
