@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Shruti+Singh+Jadaun)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+Developer+From+India)](https://git.io/typing-svg)
-<img align="right" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnIzVWxQM3Y1UGRqc1BGX1lkOWwtY3NYYS1VUXxBQ3Jtc0trQmdid2xobEVtcDZtSGJYMjQzNUhDSm1iOUpGUWVyM3pCX2k4RTRoRjJ5RWhySldvU3RaVUpBNUxoaHc5Wi1ydlJCeUFUOEgxeFQ1SDcxRTBMNXNYSi1GTUMwTEx3WkM1T3dGeHZRaEtmLUc4Rl9ZMA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" width="400" src="https://drive.google.com/file/d/11b3l4vgO1f76oPhZF4WTDvqWwVhMZDG9/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="ssjadaun" /> </p>
 
