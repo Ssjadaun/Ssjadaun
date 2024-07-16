@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Shruti+Jadaun;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
-<h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right"alt="coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-bug-error-gif-24991577">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+Developer+From+India)](https://git.io/typing-svg)
+<img align="right" width="400" src="https://tenor.com/view/scaler-create-impact-coding-bug-error-gif-24991577">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="ssjadaun" /> </p>
 
