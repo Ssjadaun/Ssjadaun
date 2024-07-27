@@ -1,4 +1,4 @@
-<p align="left"> <img src="![SHRUTI-FULL STACK WEB DEVELOPER](https://github.com/user-attachments/assets/19311251-635d-47f9-aaba-96523edf55a3)
+<p align="left"> <img src="https://ibb.co/HNfz9CC
 
 "> </img> </p>
 
