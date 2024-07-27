@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OsiW1Ni7sZtcsv-HuA9EWHNSpzdfF2XN/view?usp=sharing](https://drive.google.com/file/d/1OsiW1Ni7sZtcsv-HuA9EWHNSpzdfF2XN/view?usp=sharing)
 - 
-<p align="left"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/64cBjn3/giphy.gif" alt="giphy" height="300" width="300" border="10"></a> </p>
+<p align="right"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/64cBjn3/giphy.gif" alt="giphy" height="300" width="300" border="10"></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
