@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://drive.google.com/file/d/1IEM_3eVIhfmvKvf7wHuX73j_jPca84XI/view?usp=drive_link
+<p align="left"> <img src="![SHRUTI-FULL STACK WEB DEVELOPER](https://github.com/user-attachments/assets/19311251-635d-47f9-aaba-96523edf55a3)
+
 "> </img> </p>
 
 
