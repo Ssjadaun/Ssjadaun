@@ -1,5 +1,6 @@
 
-<a href="https://ibb.co/HNfz9CC"><img src="https://i.ibb.co/bHMBGFF/SHRUTI-FULL-STACK-WEB-DEVELOPER.png" alt="SHRUTI-FULL-STACK-WEB-DEVELOPER" border="10"></a>
+<a href="https://ibb.co/HNfz9CC"><img src="https://i.ibb.co/bHMBGFF/SHRUTI-FULL-STACK-WEB-DEVELOPER.png" alt="SHRUTI-FULL-STACK-WEB-DEVELOPER"  width="600" 
+     height="500" border="10"></a>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Shruti+Singh+Jadaun)](https://git.io/typing-svg)
