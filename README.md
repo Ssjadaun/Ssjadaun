@@ -1,9 +1,12 @@
+<p align="left"> <img src="https://drive.google.com/file/d/1IEM_3eVIhfmvKvf7wHuX73j_jPca84XI/view?usp=drive_link
+"> </img> </p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Shruti+Singh+Jadaun)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+Developer+From+India)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://drive.google.com/file/d/1IEM_3eVIhfmvKvf7wHuX73j_jPca84XI/view?usp=sharing
-"> </img> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
 
