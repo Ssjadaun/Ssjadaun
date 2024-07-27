@@ -7,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+Developer+From+India)](https://git.io/typing-svg)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OsiW1Ni7sZtcsv-HuA9EWHNSpzdfF2XN/view?usp=sharing](https://drive.google.com/file/d/1OsiW1Ni7sZtcsv-HuA9EWHNSpzdfF2XN/view?usp=sharing)
 - 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/64cBjn3/giphy.gif" alt="giphy" border="0"></a>
+<a align="right" href="https://imgbb.com/"><img src="https://i.ibb.co/64cBjn3/giphy.gif" alt="giphy" height="200" width="100" border="10"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
