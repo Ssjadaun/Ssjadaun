@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+FullStack+Developer+From+India)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://gifdb.com/coding"> </img> </p>
+<p align="left"> <img src="![image](https://github.com/user-attachments/assets/69f456bb-d63d-4b2a-b480-e110d2312311)
+"> </img> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
 
