@@ -8,11 +8,6 @@
 
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
-
-
-<a align="left" href="https://ibb.co/kgW7hfd"><img align="left" src="https://i.ibb.co/Gvb6VLh/celebration-labour-day-with-3d-cartoon-portrait-working-woman.jpg" align="left" alt="celebration-labour-day-with-3d-cartoon-portrait-working-woman" height="300" width="400" border="0"></a>
- 📄 Resume [https://shorturl.at/ZXOW2)
-<p align="right"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/64cBjn3/giphy.gif" alt="giphy" height="300" width="400" border="10"></a> <div align="center">
   
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssjadaun&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/yashkumar161)
 </div> </p>
@@ -32,7 +27,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssjadaun&show_icons=true&locale=en&layout=compact" alt="ssjadaun" /></p>
-
+📄 Resume [https://shorturl.at/ZXOW2)
 
 
 
