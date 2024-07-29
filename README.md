@@ -9,8 +9,7 @@
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OsiW1Ni7sZtcsv-HuA9EWHNSpzdfF2XN/view?usp=sharing](https://drive.google.com/file/d/1OsiW1Ni7sZtcsv-HuA9EWHNSpzdfF2XN/view?usp=sharing)
-- 
+- 📄 Resume [https://shorturl.at/ZXOW2)
 <p align="right"> <a href="https://imgbb.com/"><img src="https://i.ibb.co/64cBjn3/giphy.gif" alt="giphy" height="300" width="300" border="10"></a> <div align="center">
   
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssjadaun&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/yashkumar161)
