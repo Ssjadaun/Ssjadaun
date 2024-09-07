@@ -27,7 +27,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssjadaun&show_icons=true&locale=en&layout=compact" alt="ssjadaun" /></p>
-📄 Resume [https://shorturl.at/ZXOW2)
+📄 Resume 
 
 
 
