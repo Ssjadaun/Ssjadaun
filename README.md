@@ -9,8 +9,7 @@
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssjadaun" alt="ssjadaun" /></a> </p>
   
-[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssjadaun&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/yashkumar161)
-</div> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
