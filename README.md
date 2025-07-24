@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shruti-jadaun-3-46-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-jadaun-3-46-/" height="30" width="40" /></a>
-<a href="https://instagram.com/_ssjadaun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ssjadaun_" height="30" width="40" /></a>
+<a href="https://instagram.com/_s.s.jadaun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ssjadaun_" height="30" width="40" /></a>
 <a href="https://medium.com/@shrutijadaun346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shrutijadaun346" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrutijadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrutijadaun" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ssjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssjadaun" height="30" width="40" /></a>
