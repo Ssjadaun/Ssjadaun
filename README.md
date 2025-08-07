@@ -1,5 +1,5 @@
 
-<a href="https://ibb.co/HNfz9CC"><img src="https://i.ibb.co/bHMBGFF/SHRUTI-FULL-STACK-WEB-DEVELOPER.png" alt="SHRUTI-FULL-STACK-WEB-DEVELOPER"  width="1000" 
+<a href="https://ibb.co/fYXh3GsY"><img src="https://i.ibb.co/bHMBGFF/SHRUTI-FULL-STACK-WEB-DEVELOPER.png" alt="SHRUTI-FULL-STACK-WEB-DEVELOPER"  width="1000" 
      height="200" border="10"></a>
 
 
