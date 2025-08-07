@@ -22,7 +22,7 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssjadaun&show_icons=true&locale=en&layout=compact" alt="ssjadaun" /></p>
 
-<a href="https://drive.google.com/file/d/1N7_Ui_CWvsCfV_VUJcrZUp-QP-zfv7HK/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1lQ2VERuKvTnoFn1eJeMo72TT-SFsCKEv/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/clouds/100/000000/resume.png" alt="Resume Icon"/>
 </a>
 
